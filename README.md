@@ -32,6 +32,8 @@ Durante os testes, o modelo conseguiu reconhecer a maioria dos gestos corretamen
 Acredito que isso aconteceu porque foram utilizadas apenas 55 fotos, o que pode ter sido pouco para o modelo aprender diferentes posições e condições.
 Com mais imagens e maior variedade nos exemplos, provavelmente o resultado seria melhor.
 
+
+ 
 ### Código da aplicação
 
 ```html
