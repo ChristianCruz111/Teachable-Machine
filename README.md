@@ -1,4 +1,4 @@
-# Pedra, Papel e Tesoura (IA)
+# Pedra, Papel e Tesoura Teachable Machine(IA)
 
 Este projeto utiliza inteligência artificial para reconhecer os gestos de **Pedra, Papel e Tesoura** através da câmera. O modelo foi criado e treinado utilizando o **Google Teachable Machine**.
 
